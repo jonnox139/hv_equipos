@@ -1,0 +1,51 @@
+* {
+   margin: 0;
+   padding: 0;
+   font-family: tahoma;
+}
+
+body {
+   text-align: center;
+}
+
+#wrapper {
+   width: 450px;
+   margin: 0 auto;
+   text-align: left;
+   margin-top: 150px;
+   border: 2px solid darkgray;
+   padding: 10px 30px;
+   border-radius: 10px;
+}
+
+#wrapper > p {
+    text-align: center;
+}
+
+#pBoton {
+   text-align: center;
+}
+
+h4 {
+   text-align: center; 
+}
+
+#titulo {
+    text-align: center;
+    font-size: 20px;
+}
+
+footer {
+    margin-top: 10px;  
+}
+
+footer > p {
+    text-align: center;
+    color: gray;
+    font-size: 10px;
+}
+
+footer a {
+    text-decoration: none;
+    color: gray;
+}
